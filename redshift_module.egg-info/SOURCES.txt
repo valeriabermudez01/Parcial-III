@@ -1,0 +1,8 @@
+README.md
+setup.py
+setup2.py
+redshift_module.egg-info/PKG-INFO
+redshift_module.egg-info/SOURCES.txt
+redshift_module.egg-info/dependency_links.txt
+redshift_module.egg-info/requires.txt
+redshift_module.egg-info/top_level.txt
